@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CodersNexus</string>
+        <string name="title">CODING CLUB RESOURCES</string>
+        <string name="domains">TYPES OF DOMAINS</string>
+        <string name="web">WEB DEVELOPMENT</string>
+        <string name="android">ANDROID DEVELOPMENT</string>
+        <string name="cloud">CLOUD COMPUTING</string>
+        <string name="cyber">CYBER SECURITY</string>
+        <string name="data">DATA SCIENCE</string>
+        <string name="intro">CodersNexus is an exclusive app designed for our club members,
+        initiated by B-Tech CSE students, with a singular mission: "Learning together and growing together".
+        Our platform provides a wealth of resources spanning web development, Android development, Cyber-security, AWS,
+        cloud computing, data science, machine learning, and more. Here, members have the opportunity to access these resources,
+        explore their interests, and collectively advance their coding skills.
+        Join us on this exciting journey of knowledge sharing and skill development.
+        Together, we thrive!
+    </string>
+<!--        <string name="desc1">Web development is the process of creating and maintaining-->
+<!--        websites and web applications for the internet.-->
+<!--        It encompasses a wide range of tasks, including designing the user interface,-->
+<!--        coding the functionality, and ensuring the website's performance,-->
+<!--        security, and compatibility with various devices and browsers.</string>-->
+        <string name="about">Description :</string>
+<!--        <string name="desc2">Android development is the process of creating mobile applications specifically designed to run on the Android operating system,-->
+<!--        which powers the majority of smartphones and tablets worldwide.</string>-->
+<!--        <string name="desc3">Cloud computing is a revolutionary technology that has transformed the way businesses-->
+<!--        and individuals access, store, and manage data and applications.</string>-->
+<!--        <string name="desc4">Cyber-security is the practice of protecting computer systems, networks, data,-->
+<!--        and digital assets from various forms of cyber threats and attacks.-->
+<!--        It is a critical field in our increasingly interconnected and digitized world.</string>-->
+<!--        <string name="desc5">Data science is an interdisciplinary field that combines techniques from statistics,-->
+<!--        computer science, and domain-specific expertise to extract-->
+<!--        meaningful insights and knowledge from data.</string>-->
+
+    <string name="descp">We are Computer Science and Engineering students from JNTUA College of Engineering,
+        actively engaged in the exciting realm of Android development through the Google Android Developers Community.
+        As dedicated members of the CodersNexus student coding club,
+        we\'ve embarked on a journey of innovation and creation.
+        Within our app portfolio, you\'ll find diverse offerings such as calculators,
+        note-making tools, and CSE Tech resources, all designed to enhance the digital experience.
+        As coordinators of CodersNexus, we are passionate about fostering an environment where learning
+        thrives and creativity flourishes. Join us in this collaborative adventure where code meets creativity!
+</string>
+    </resources>
